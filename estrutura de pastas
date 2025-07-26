@@ -1,0 +1,6 @@
+backend/server.js
+frontend/src/App.js
+frontend/src/pages/Home.js
+frontend/src/components/Cart.js
+database/database.db
+README.md
